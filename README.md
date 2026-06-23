@@ -189,16 +189,25 @@ Feature order:
 ## Screenshots
 
 ### Home Page
-> Hero section with attack type badges and feature cards
+<img width="948" height="457" alt="image" src="https://github.com/user-attachments/assets/532c1b78-4c49-4c0e-860c-84ec3b9b8242" />
+
 
 ### Dashboard
-> Real-time stats cards + doughnut chart of traffic classification
+<img width="953" height="451" alt="image" src="https://github.com/user-attachments/assets/5feec6c4-5848-4f46-a3f8-23766b6b7f32" />
+
 
 ### Predict Page
-> 10-feature input form with quick demo buttons and result card
+<img width="953" height="456" alt="image" src="https://github.com/user-attachments/assets/e59bbe10-0be6-4a97-93be-32b9dc10f81b" />
+
+<img width="949" height="452" alt="image" src="https://github.com/user-attachments/assets/3b705b71-02df-424c-aa6e-884dfd1b280c" />
+
 
 ### Alerts Page
-> Full table of all logged predictions with confidence progress bars
+<img width="954" height="458" alt="image" src="https://github.com/user-attachments/assets/20201589-253b-43fb-aa2b-fbedfbe3f150" />
+
+### About Page 
+<img width="950" height="455" alt="image" src="https://github.com/user-attachments/assets/6fdb30c4-6572-464f-b9b9-1d5e3aca5528" />
+
 
 ---
 
