@@ -199,11 +199,13 @@ Feature order:
 ### Predict Page
 <img width="953" height="456" alt="image" src="https://github.com/user-attachments/assets/e59bbe10-0be6-4a97-93be-32b9dc10f81b" />
 
+
 <img width="949" height="452" alt="image" src="https://github.com/user-attachments/assets/3b705b71-02df-424c-aa6e-884dfd1b280c" />
 
 
 ### Alerts Page
 <img width="954" height="458" alt="image" src="https://github.com/user-attachments/assets/20201589-253b-43fb-aa2b-fbedfbe3f150" />
+
 
 ### About Page 
 <img width="950" height="455" alt="image" src="https://github.com/user-attachments/assets/6fdb30c4-6572-464f-b9b9-1d5e3aca5528" />
