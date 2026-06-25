@@ -234,8 +234,6 @@ Demo Video - https://drive.google.com/file/d/1Ze3ySLxm1GuyCuQ-IS7WIXZ4FZMlexUJ/v
 ## Author
 
 Prithviraj Prashant Nimbalkar 
-
-Mooc course Project — Cybersecurity (AI-Enhanced-Intrusion-Detection-System 🛡️) 
-
+ 
 SmartInternz Externship Program — 2026
 
